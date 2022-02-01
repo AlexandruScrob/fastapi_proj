@@ -1,1 +1,1 @@
-Small Blog FastApi Project using SQLAlchemy and OAuth2
+Small Blog Project using OAuth2, SQLAlchemy and OAuth2
